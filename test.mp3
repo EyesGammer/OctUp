@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+
+<meta charset="utf-8" />
+
+<script> var tarteaucitronForceLanguage="fr"; </script>
+<script src="/tarteaucitron/tarteaucitron.js"></script>
+<script>
+tarteaucitron.init({
+    "privacyUrl": "", /* Privacy policy url */
+
+    "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+    "cookieName": "tarteaucitron", /* Cookie name */
+
+    "orientation": "middle", /* Banner position (top - bottom) */
+    "showAlertSmall": false, /* Show the small banner on bottom right */
+    "cookieslist": true, /* Show the cookie list */
+
+    "adblocker": false, /* Show a Warning if an adblocker is detected */
+    "DenyAllCta" : false, /* Show the deny all button */
+    "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+    "highPrivacy": true, /* Disable auto consent */
+    "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+
+    "removeCredit": false, /* Remove credit link */
+    "moreInfoLink": true, /* Show more info link */
+    "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
+    
+    "mandatory": true, /* Show more info link */
+
+    //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for subdomain website */
+
+    "readmoreLink": "/mentions-legales.html",    
+    "mandatory": false /* Show a message about mandatory cookies */
+});
+</script>
+
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+
+<link rel="stylesheet" href="/css/style.css?v=98" type="text/css" />
+
+
+<title>Bruitages &amp; Sons, gratuits et libres de droits &bull; LaSonotheque.org</title>
+<meta name='title' content="Bruitages &amp; Sons, gratuits et libres de droits &bull; LaSonotheque.org" />
+<meta name='description' content="Fichiers audio libres de droits et gratuits. Sons seuls, bruitages et ambiances sonores en MP3, WAV, OGG, etc. Ecouter, telecharger." />
+<meta name='keywords' content="bruitages, sons, illustrations sonores, enregistrements, bruits, ambiances, gratuit, libre, sonotheque, soundbank, banque de sons, fieldrecorder, fieldrecording, recording, recorder, phonotheque" />
+<meta name='author' content='Joseph SARDIN' />
+<meta name='language' content='fr' />
+<meta http-equiv='content-language' content='fr-fr' />
+
+<link rel='alternate' hreflang='fr' href="https://lasonotheque.org/UPLOAD/mp3/0081.mp3" />
+<link rel='alternate' hreflang='en' href="https://bigsoundbank.com/UPLOAD/mp3/0081.mp3" />
+
+<meta property='fb:admins' content='166240116749141' />
+<link rel='alternate' hreflang='x-default' href="https://bigsoundbank.com/UPLOAD/mp3/0081.mp3" />
+<link rel='canonical' href="https://lasonotheque.org/UPLOAD/mp3/0081.mp3" />
+
+<meta property='og:site_name' content='LaSonotheque.org' />
+<meta property='og:title' content="Bruitages &amp; Sons, gratuits et libres de droits &bull; LaSonotheque.org" />
+<meta property='og:type' content='website' />
+<meta property='og:description' content="Fichiers audio libres de droits et gratuits. Sons seuls, bruitages et ambiances sonores en MP3, WAV, OGG, etc. Ecouter, telecharger." />
+<meta property='og:url' content="https://lasonotheque.org/UPLOAD/mp3/0081.mp3" />
+<meta property='og:image' content='https://lasonotheque.org/images/logo-ls-carre-250.png' />
+<meta property='og:image:secure_url' content='https://lasonotheque.org/images/logo-ls-carre-250.png' />
+
+<link rel='icon' type='image/gif' href='/images/favicon.gif' />
+<link rel='shortcut icon' type='image/x-icon' href='https://lasonotheque.org/images/favicon.ico' />
+
+<meta name='msapplication-TileColor' content='#E6EEF3' />
+<meta name='msapplication-TileImage' content='https://lasonotheque.org/images/logo-ls-carre-144.png' />
+<meta name='application-name' content='LaSonotheque.org' />
+
+<link href='https://lasonotheque.org/images/logo-ls-carre-250.png' rel='image_src' />
+<link rel='sitemap' href='sitemap_ls.xml' type='application/xml' />
+
+<meta name='apple-mobile-web-app-capable' content='yes' />
+<link rel='icon' sizes='114x114' href='https://lasonotheque.org/images/logo-ls-carre-114.png' />
+<link rel='apple-touch-icon' sizes='114x114' href='https://lasonotheque.org/images/logo-ls-carre-114.png' />
+
+<link type='text/plain' rel='author' href='https://lasonotheque.org/humans.txt' />
+
+<meta name='google-site-verification' content='c-DpQKZXv3qQAxqdjOB24cxuSZaSzlQJlaESoRB4njY' />
+<meta name='msvalidate.01' content='4502B7781A587027B391AF72E8EC5889' />
+</head>
+<body>
+<noscript>Votre navigateur ne supporte pas le Java Script ! Activez-le !</noscript>
+<header>
+<div class='mini_don d'>
+<a href='/donation.html'>
+<img style='padding-top:3px;'  src='/images/btn_donate_small_fr_hd.png' alt='PayPal, le r&eacute;flexe s&eacute;curit&eacute; pour payer en ligne' width='122'/>
+</a></div>
+<div class='cc d'>
+<a href='/droit.html'><img alt='Fichiers audio libres de droits et gratuits.' title='Plus d&apos;infos' style='border:0; background-color: transparent;' src='/images/gratuit_fr.png' srcset='/images/gratuit_fr.png 1x, /images/gratuit_fr_hd.png 2x' /></a>
+</div><div class='m choixlangue'>
+<a href='https://bigsoundbank.com/UPLOAD/mp3/0081.mp3' title='English website'><img src='/images/dr-en-touch.png' alt='Drapeau Anglais' /></a></div>
+
+<div class='d choixlangue'>
+<a href='https://bigsoundbank.com/UPLOAD/mp3/0081.mp3' title='English website'>English</a> - <a href='https://lasonotheque.org/UPLOAD/mp3/0081.mp3' title='Site en Fran&ccedil;ais'>Fran&ccedil;ais</a></div><div class='cadre' style='line-height:0;'>
+<a href='/' title='Accueil'>
+
+
+<img class='d' alt="Logo du site LaSonotheque.org" src="/images/logo-ls-900-d-noel.png" srcset="/images/logo-ls-900-d-noel.png 1x, /images/logo-ls-1800-d-noel.png 2x" width="900" />
+
+<img src='/images/logo-ls-620-m-noel.png' width='320' alt='Logo du site LaSonotheque.org' class='m' />
+</a>
+<div class='degrade'><form class='searchform1' action='https://lasonotheque.org/search' id='mot' name='mot' method='GET'>
+<div class='menu d' style='float:left; margin-top:7px;'><nav class='menu'><ul><li><a href='/apropos.html'>&Agrave; propos</a></li><li><a href='/boutique/'>Boutique</a></li><li><a href='/categories.html'>Catégories</a></li><li><a href='/search'>Tous les sons</a></li><li><a href='/jeux/quiz-sonore'>Quiz sonore</a></li><li><a href='/dossiers.html'>Dossiers</a></li><li><a href='/liens.html'>Liens utiles</a></li></ul></nav></div>
+<div class='menu m' style='float:left; margin-top:1px;'><a class='navbar-toggle' onClick='asideswipe()'><img alt='Menu' src='/images/menu-80x80.png' width='40' /></a></div>
+<div class='menu'>
+<input name='q' type='search' placeholder='Rechercher des sons&hellip;' value="" class='haut_q q' aria-label='Search' /><input type='submit' value='&check;' class='haut_v' />
+</div>
+</form></div>
+</div>
+<div id="aside" class="m menu" style="float:left; display:none; left:10px; position: absolute; z-index: 2; margin-top:0;"><nav class='menu' style='margin-top:0;'><ul><li><a href='/apropos.html'>&Agrave; propos</a></li><li><a href='/boutique/'>Boutique</a></li><li><a href='/search'>Tous les sons</a></li><li><a href='/categories.html'>Catégories</a></li><li><a href='/advanced-search.html'>Recherche avancée</a></li><li><a href='/jeux/quiz-sonore'>Quiz sonore</a></li><li><a href='/dossiers.html'>Dossiers</a></li><li><a href='/liens.html'>Liens utiles</a></li></ul></nav></div>
+</header><div class="cadre error md">
+<h1 style='text-align: center;'>OUPS ! ERREUR 403</h1>
+<p style='text-align: center;'>Il semble qu'il y ai eu un petit souci quelque part&hellip;</p>
