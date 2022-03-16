@@ -296,7 +296,7 @@ function gbGoToSection ( id )
 */
 function octupGoToSection ( id, station_id )
 {
-	gbGetRequest ( "goodbarber://gotosection", { "id":id, "station_id":station_id } );
+	gbPostRequest ( "goodbarber://gotosection", { "id":id, "station_id":station_id } );
 }
 
 /************* [GB Plugin API] Navigation Methods *************/
